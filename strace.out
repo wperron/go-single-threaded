@@ -1,0 +1,110 @@
+43759 nanosleep({tv_sec=0, tv_nsec=20000}, NULL) = 0
+43759 nanosleep({tv_sec=0, tv_nsec=20000}, NULL) = 0
+43759 nanosleep({tv_sec=0, tv_nsec=20000}, NULL) = 0
+43759 nanosleep({tv_sec=0, tv_nsec=20000},  <unfinished ...>
+43758 nanosleep({tv_sec=1, tv_nsec=0},  <unfinished ...>
+43759 <... nanosleep resumed>NULL)      = 0
+43760 nanosleep({tv_sec=1, tv_nsec=0},  <unfinished ...>
+43759 nanosleep({tv_sec=0, tv_nsec=20000},  <unfinished ...>
+43762 nanosleep({tv_sec=1, tv_nsec=0},  <unfinished ...>
+43761 nanosleep({tv_sec=1, tv_nsec=0},  <unfinished ...>
+43759 <... nanosleep resumed>NULL)      = 0
+43763 nanosleep({tv_sec=1, tv_nsec=0},  <unfinished ...>
+43764 nanosleep({tv_sec=1, tv_nsec=0},  <unfinished ...>
+43766 nanosleep({tv_sec=1, tv_nsec=0},  <unfinished ...>
+43759 nanosleep({tv_sec=0, tv_nsec=20000},  <unfinished ...>
+43767 nanosleep({tv_sec=1, tv_nsec=0},  <unfinished ...>
+43765 nanosleep({tv_sec=1, tv_nsec=0},  <unfinished ...>
+43759 <... nanosleep resumed>NULL)      = 0
+43759 nanosleep({tv_sec=0, tv_nsec=20000},  <unfinished ...>
+43768 nanosleep({tv_sec=1, tv_nsec=0},  <unfinished ...>
+43759 <... nanosleep resumed>NULL)      = 0
+43759 nanosleep({tv_sec=0, tv_nsec=20000}, NULL) = 0
+43759 nanosleep({tv_sec=0, tv_nsec=20000}, NULL) = 0
+43759 nanosleep({tv_sec=0, tv_nsec=20000}, NULL) = 0
+43759 nanosleep({tv_sec=0, tv_nsec=20000}, NULL) = 0
+43759 nanosleep({tv_sec=0, tv_nsec=20000}, NULL) = 0
+43759 nanosleep({tv_sec=0, tv_nsec=20000}, NULL) = 0
+43759 nanosleep({tv_sec=0, tv_nsec=20000}, NULL) = 0
+43759 nanosleep({tv_sec=0, tv_nsec=20000}, NULL) = 0
+43759 nanosleep({tv_sec=0, tv_nsec=20000}, NULL) = 0
+43759 nanosleep({tv_sec=0, tv_nsec=20000}, NULL) = 0
+43759 nanosleep({tv_sec=0, tv_nsec=20000}, NULL) = 0
+43759 nanosleep({tv_sec=0, tv_nsec=20000}, NULL) = 0
+43759 nanosleep({tv_sec=0, tv_nsec=20000}, NULL) = 0
+43759 nanosleep({tv_sec=0, tv_nsec=20000}, NULL) = 0
+43759 nanosleep({tv_sec=0, tv_nsec=20000}, NULL) = 0
+43759 nanosleep({tv_sec=0, tv_nsec=20000}, NULL) = 0
+43759 nanosleep({tv_sec=0, tv_nsec=20000}, NULL) = 0
+43759 nanosleep({tv_sec=0, tv_nsec=20000}, NULL) = 0
+43759 nanosleep({tv_sec=0, tv_nsec=20000}, NULL) = 0
+43759 nanosleep({tv_sec=0, tv_nsec=20000}, NULL) = 0
+43759 nanosleep({tv_sec=0, tv_nsec=20000}, NULL) = 0
+43759 nanosleep({tv_sec=0, tv_nsec=20000}, NULL) = 0
+43759 nanosleep({tv_sec=0, tv_nsec=20000}, NULL) = 0
+43759 nanosleep({tv_sec=0, tv_nsec=20000}, NULL) = 0
+43759 nanosleep({tv_sec=0, tv_nsec=20000}, NULL) = 0
+43759 nanosleep({tv_sec=0, tv_nsec=20000}, NULL) = 0
+43759 nanosleep({tv_sec=0, tv_nsec=20000}, NULL) = 0
+43759 nanosleep({tv_sec=0, tv_nsec=20000}, NULL) = 0
+43759 nanosleep({tv_sec=0, tv_nsec=20000}, NULL) = 0
+43759 nanosleep({tv_sec=0, tv_nsec=20000}, NULL) = 0
+43759 nanosleep({tv_sec=0, tv_nsec=20000}, NULL) = 0
+43759 nanosleep({tv_sec=0, tv_nsec=20000}, NULL) = 0
+43759 nanosleep({tv_sec=0, tv_nsec=20000}, NULL) = 0
+43759 nanosleep({tv_sec=0, tv_nsec=20000}, NULL) = 0
+43759 nanosleep({tv_sec=0, tv_nsec=20000}, NULL) = 0
+43759 nanosleep({tv_sec=0, tv_nsec=20000}, NULL) = 0
+43759 nanosleep({tv_sec=0, tv_nsec=20000}, NULL) = 0
+43759 nanosleep({tv_sec=0, tv_nsec=20000}, NULL) = 0
+43759 nanosleep({tv_sec=0, tv_nsec=20000}, NULL) = 0
+43759 nanosleep({tv_sec=0, tv_nsec=20000}, NULL) = 0
+43759 nanosleep({tv_sec=0, tv_nsec=20000}, NULL) = 0
+43759 nanosleep({tv_sec=0, tv_nsec=20000}, NULL) = 0
+43759 nanosleep({tv_sec=0, tv_nsec=20000}, NULL) = 0
+43759 nanosleep({tv_sec=0, tv_nsec=20000}, NULL) = 0
+43759 nanosleep({tv_sec=0, tv_nsec=20000}, NULL) = 0
+43759 nanosleep({tv_sec=0, tv_nsec=20000}, NULL) = 0
+43759 nanosleep({tv_sec=0, tv_nsec=20000}, NULL) = 0
+43759 nanosleep({tv_sec=0, tv_nsec=20000}, NULL) = 0
+43759 nanosleep({tv_sec=0, tv_nsec=20000}, NULL) = 0
+43759 nanosleep({tv_sec=0, tv_nsec=20000}, NULL) = 0
+43759 nanosleep({tv_sec=0, tv_nsec=40000}, NULL) = 0
+43759 nanosleep({tv_sec=0, tv_nsec=80000}, NULL) = 0
+43759 nanosleep({tv_sec=0, tv_nsec=160000}, NULL) = 0
+43759 nanosleep({tv_sec=0, tv_nsec=320000}, NULL) = 0
+43759 nanosleep({tv_sec=0, tv_nsec=640000}, NULL) = 0
+43759 nanosleep({tv_sec=0, tv_nsec=1280000}, NULL) = 0
+43759 nanosleep({tv_sec=0, tv_nsec=2560000}, NULL) = 0
+43759 nanosleep({tv_sec=0, tv_nsec=5120000}, NULL) = 0
+43759 nanosleep({tv_sec=0, tv_nsec=20000}, NULL) = 0
+43758 <... nanosleep resumed>NULL)      = 0
+43766 <... nanosleep resumed>NULL)      = 0
+43764 <... nanosleep resumed>NULL)      = 0
+43763 <... nanosleep resumed>NULL)      = 0
+43762 <... nanosleep resumed>NULL)      = 0
+43761 <... nanosleep resumed>NULL)      = 0
+43760 <... nanosleep resumed>NULL)      = 0
+43767 <... nanosleep resumed>NULL)      = 0
+43765 <... nanosleep resumed>NULL)      = 0
+43759 nanosleep({tv_sec=0, tv_nsec=20000},  <unfinished ...>
+43768 <... nanosleep resumed>NULL)      = 0
+43761 nanosleep({tv_sec=0, tv_nsec=3000},  <unfinished ...>
+43760 nanosleep({tv_sec=0, tv_nsec=3000},  <unfinished ...>
+43768 nanosleep({tv_sec=0, tv_nsec=3000},  <unfinished ...>
+43759 <... nanosleep resumed>NULL)      = 0
+43768 <... nanosleep resumed>NULL)      = 0
+43761 <... nanosleep resumed>NULL)      = 0
+43760 <... nanosleep resumed>NULL)      = 0
+43769 +++ exited with 0 +++
+43768 +++ exited with 0 +++
+43767 +++ exited with 0 +++
+43766 +++ exited with 0 +++
+43765 +++ exited with 0 +++
+43764 +++ exited with 0 +++
+43763 +++ exited with 0 +++
+43762 +++ exited with 0 +++
+43761 +++ exited with 0 +++
+43760 +++ exited with 0 +++
+43759 +++ exited with 0 +++
+43758 +++ exited with 0 +++
