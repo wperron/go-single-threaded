@@ -2,10 +2,17 @@ package main
 
 import (
 	"fmt"
+	"runtime"
+	"runtime/debug"
 	"sync"
 	"syscall"
 	"time"
 )
+
+func init() {
+	runtime.GOMAXPROCS(1)
+	debug.SetMaxThreads(5)
+}
 
 func main() {
 	fmt.Println(time.Now())
